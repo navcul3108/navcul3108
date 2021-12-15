@@ -13,18 +13,48 @@
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-  <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+<table align="center">
+ <thead>
+ <tr>
+  <th>Languages</th>
+  <th>Frameworks</th>
+  <th>Databases</th>
+  <th>Tools and others</th>
+ </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"></td>
+   <td><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"></td>
+   <td><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"></td>
+   <td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"></td>
+  </tr>
+  <tr>
+   <td><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++"></td>
+   <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS"></td>
+   <td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer"></td>
+   <td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></td>
+  </tr>
+  <tr>
+   <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"></td>
+   <td><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV"></td>
+   <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres"></td>
+   <td><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="Google Cloud"></td>
+  </tr>
+  <tr>
+   <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"></td>
+   <td><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js"></td>
+   <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis"></td>
+   <td><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" alt="Firebase"></td>
+  </tr>
+  <tr>
+   <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"></p></td>
+   <td><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery"></td>
+   <td><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"></td>
+   <td><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins"></td>
+  </tr>
+ </tbody>
+</table>
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
