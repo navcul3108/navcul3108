@@ -49,21 +49,19 @@
 <p align="center">
   <img src="https://github.com/navcul3108/navcul3108/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-### My github steeak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=navcul3108&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
 <br>
-
+<h2 align="center">Streak Stats</h2>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=navcul3108&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+<br>
+<h2 align="center">Most used language</h2>
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=navcul3108&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=navcul3108&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=navcul3108&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
+<h2 align="center">Activity</h2>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=navcul3108&theme=redical">
 </p> 
