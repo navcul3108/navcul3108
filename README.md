@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/navcul3108/navcul3108/blob/main/banner.png" />
+<img src="https://github.com/navcul3108/navcul3108/blob/main/banner.jpg" />
 
 <p align="center">
  
@@ -60,15 +60,14 @@
 
 <p align="center">
   
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: ekkojayce3108@gmail.com">
- <img src="https://img.shields.io/badge/-ekkojayce3108-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekkojayce3108@gmail.com"/>
+ <img src="https://img.shields.io/badge/-ekkojayce3108-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ekkojayce3108@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/luc-giang-van-22502b1a2/">
- <img src="https://img.shields.io/badge/-lucgiangvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luc-giang-van-22502b1a2/"/>
+ <img src="https://img.shields.io/badge/-lucgiangvan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luc-giang-van-22502b1a2/"/>
 </a>
  <a href="https://www.facebook.com/giangvan.luc.9">
- <img src="https://img.shields.io/badge/-GiangVanLuc-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/giangvan.luc.9"/>
+ <img src="https://img.shields.io/badge/-GiangVanLuc-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/giangvan.luc.9"/>
 </a>
 </p>
 
