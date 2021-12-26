@@ -101,3 +101,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=navcul3108&theme=redical">
 </p> 
 <hr>
+<a href="https://app.daily.dev/tichtac"><img src="https://api.daily.dev/devcards/6b900df7ac954e5db32dfcd638b34462.png?r=fdr" width="400" alt="Giang Văn Lực's Dev Card"/></a>
